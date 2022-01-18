@@ -26,7 +26,7 @@
 /in         https://www.linkedin.com/in/alistairjshepherd/
 /linkedin   https://www.linkedin.com/in/alistairjshepherd/
 
-# image cdn talk
+# image cdn talk - jamstack
 /jamstack-imagecdn   https://alistairshepherd.uk/speaking/jamstack-imagecdns/
 /jamstack-imagecdns  https://alistairshepherd.uk/speaking/jamstack-imagecdns/
 /jamstack-image-cdn  https://alistairshepherd.uk/speaking/jamstack-imagecdns/
@@ -35,5 +35,15 @@
 /imagecdns-11ty      https://gist.github.com/Accudio/f7625f4d67ec3598e9f06e9b63b2552a
 /imagecdn-react      https://gist.github.com/Accudio/1250f383ca0a084d58ce923d1ae18eee
 /imagecdns-react     https://gist.github.com/Accudio/1250f383ca0a084d58ce923d1ae18eee
+
+# image cdn talk - wordpress
+/wordpress-imagecdn   https://alistairshepherd.uk/speaking/wordpress-imagecdns/
+/wordpress-imagecdns  https://alistairshepherd.uk/speaking/wordpress-imagecdns/
+/wordpress-image-cdn  https://alistairshepherd.uk/speaking/wordpress-imagecdns/
+/wordpress-image-cdns https://alistairshepherd.uk/speaking/wordpress-imagecdns/
+/wp-imagecdn   https://alistairshepherd.uk/speaking/wordpress-imagecdns/
+/wp-imagecdns  https://alistairshepherd.uk/speaking/wordpress-imagecdns/
+/wp-image-cdn  https://alistairshepherd.uk/speaking/wordpress-imagecdns/
+/wp-image-cdns https://alistairshepherd.uk/speaking/wordpress-imagecdns/
 /imagecdn-acf        https://gist.github.com/Accudio/e7aae5823018bbedff4c9868c1241a3d
 /imagecdns-acf       https://gist.github.com/Accudio/e7aae5823018bbedff4c9868c1241a3d
