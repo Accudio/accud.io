@@ -58,7 +58,10 @@
 /imagecdn-php  https://gist.github.com/Accudio/4da6715aae35e4c1c9e19fe49629b1a1
 /imagecdns-php https://gist.github.com/Accudio/4da6715aae35e4c1c9e19fe49629b1a1
 
-# my website talk
-/http203-svg-paths https://www.youtube.com/watch?v=9qen5CKjUe8
-/css-parallax      https://developer.chrome.com/blog/performant-parallaxing/
-/sotb              https://as-sotb22.netlify.app
+# creative web talk
+/http203-svg-paths          https://www.youtube.com/watch?v=9qen5CKjUe8
+/css-parallax               https://developer.chrome.com/blog/performant-parallaxing/
+/sotb                       https://as-sotb22.netlify.app
+#/creative-web              https://slides.com/
+/scroll-animation-spec      https://www.w3.org/TR/2023/WD-scroll-animations-1-20230606/
+/scroll-animation-polyfill  https://github.com/flackr/scroll-timeline
