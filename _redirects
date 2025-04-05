@@ -65,3 +65,8 @@
 /creative-web               https://slides.com/accudio/creative-web/scroll
 /scroll-animation-spec      https://www.w3.org/TR/2023/WD-scroll-animations-1-20230606/
 /scroll-animation-polyfill  https://github.com/flackr/scroll-timeline
+
+# jet lag edinburgh
+/jle/bus-map         https://www.lothianbuses.com/wp-content/uploads/2025/04/Network_Map_250406.pdf
+/jle/bus-map-centre  https://www.lothianbuses.com/wp-content/uploads/2025/04/250406_City-Centre-Stops.png   
+/jle/wards           https://data.edinburghcouncilmaps.info/datasets/cityofedinburgh::edinburgh-ward-boundaries/explore
